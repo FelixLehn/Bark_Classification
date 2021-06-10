@@ -4,7 +4,7 @@ This Classification shows the power of the pretrained models of tensforflow kera
 
 ## Dataset
 
-The used dataset is from https://www.vicos.si/Downloads/TRUNK12 . The TRUNK12[[1]](#1) dataset contains picture of tree trunks. They can be downloaded as a zip file. Luckily the data is organized in a way so that the function image_dataset_from_directory() from the keras preprocessing package can read it. 
+The used dataset is from https://www.vicos.si/Downloads/TRUNK12 . The TRUNK12[[1]](#1) dataset contains pictures of tree trunks. They can be downloaded as a zip file. Luckily the data is organized in a way so that the function image_dataset_from_directory() from the keras preprocessing package can read it. 
 
 To see how the pictures look alike a visualization is implemented in the code. 
 
